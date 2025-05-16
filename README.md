@@ -1,7 +1,5 @@
 # Laravel-Vue SPA Starter Kit
 
-<a href="https://github.com/hasib120125/laravel-vue-spa-starter-kit/actions"><img src="https://github.com/hasib120125/laravel-vue-spa-starter-kit/workflows/tests/badge.svg" alt="Build Status"></a>
-
 > A Laravel-Vue SPA starter kit.
 
 ## Features
