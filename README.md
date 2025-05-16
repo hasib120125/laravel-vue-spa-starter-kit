@@ -13,7 +13,7 @@
 
 ## Installation
 
--   `composer create-project --prefer-dist cretueusebiu/laravel-vue-spa`
+-   `composer create-project --prefer-dist hasib120125/laravel-vue-spa-starter-kit`
 -   Edit `.env` and set your database connection details
 -   (When installed via git clone or download, run `php artisan key:generate` and `php artisan jwt:secret`)
 -   `php artisan migrate`
